@@ -1,16 +1,10 @@
 <p align="center">
   <a href="https://github.com/interlay/interbtc">
-    <img alt="interBTC" src="https://user-images.githubusercontent.com/14966470/210503338-e926f10f-a4d8-44c0-9115-427b62f9cffc.png">
+    <img alt="interBTC" src="https://user-images.githubusercontent.com/14966470/210685196-51938699-b686-4044-aba1-b4340a5b4747.png">
   </a>
-  <h2 align="center">
-    One dApp, all things Bitcoin
-  </h2>
-
-  <p align="center">
-  Swap, lend, borrow against your BTC or multiply your exposure.
 </p>
 
-## About the Project
+## About Interlay
 
 Interlay is a decentralized network dedicated to connecting crypto-currencies like Bitcoin with DeFi platforms like Polkadot and Ethereum. The Interlay network is hosted as a Polkadot parachain and will be connected to Cosmos, Ethereum and other major DeFi networks.
 
