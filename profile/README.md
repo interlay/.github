@@ -35,10 +35,13 @@ The Interlay project is built on many technologies including:
 2. Follow the [user guides](https://docs.interlay.io/#/guides/wallets-explorers) to try out the different networks including the [testnet](https://testnet.interlay.io/), [Kintsugi mainnet](https://kintsugi.interlay.io/), or [Interlay mainnet](https://app.interlay.io/)
 3. Check out our [developer documentation](https://docs.interlay.io/#/developers/overview?id=overview).
 
+## Contributions
+
 If you would like to contribute, please file an issue or pull request on GitHub or reach out to us.
 
-- [Discord](https://discord.com/invite/KgCYK3MKSf)
+### Contact
 
+- [Discord](https://discord.com/invite/KgCYK3MKSf)
 
 ### Main repositories
 
@@ -50,6 +53,12 @@ All our core code is open-source. We welcome contributions through issues and pu
 - [Interlay Typescript SDK](https://github.com/interlay/interbtc-api)
 - [Interlay Squid GraphQL](https://github.com/interlay/interbtc-squid)
 - [Documentation](https://github.com/interlay/interlay.github.io)
+
+### Grant Program
+
+Interlay is operating a grant program to fund development work for the Interlay network.
+
+- [Grants Program](https://www.notion.so/interlay/Interlay-Labs-Grants-Program-72973b76d15a4a9fad6a9bac1ba3f9c3)
 
 ## Contact
 
