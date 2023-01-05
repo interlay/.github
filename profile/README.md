@@ -52,6 +52,7 @@ All our core code is open-source. We welcome contributions through issues and pu
 - [Interlay UI](https://github.com/interlay/interbtc-ui)
 - [Interlay Typescript SDK](https://github.com/interlay/interbtc-api)
 - [Interlay Squid GraphQL](https://github.com/interlay/interbtc-squid)
+- [Economic security analysis](https://github.com/interlay/collateralization-analysis)
 - [Documentation](https://github.com/interlay/interlay.github.io)
 
 ### Grant Program
