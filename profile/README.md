@@ -1,21 +1,20 @@
 <p align="center">
   <a href="https://github.com/interlay/interbtc">
-    <img alt="interBTC" src="https://user-images.githubusercontent.com/14966470/210685196-51938699-b686-4044-aba1-b4340a5b4747.png">
+    <img alt="interBTC" src="https://user-images.githubusercontent.com/14966470/210916573-a42497ae-8dae-4f99-84df-4bbd264a33d5.png">
   </a>
 </p>
 
 ## About Interlay
 
-Interlay is a decentralized network dedicated to connecting crypto-currencies like Bitcoin with DeFi platforms like Polkadot and Ethereum. The Interlay network is hosted as a Polkadot parachain and will be connected to Cosmos, Ethereum and other major DeFi networks.
+**Web 3 financial system for Bitcoin**. Interlay is a decentralized layer-1 network, powered by and optimized for Bitcoin. As a Polkadot parachain, Interlay achieves best-in-class Proof-of-Stake security and interoperability with Ethereum, Cosmos, and many more.
 
-The project uses the concept of [Cryptocurrency-backed Assets](https://xclaim.io) to lock Bitcoin on the Bitcoin blockchain and issue BTC-backed tokens on the Interlay network.
-Moreover, the Interlay network include a money market and a DEX protocol.
-
-**interBTC**, Interlay’s flagship product, is Bitcoin on any blockchain. A 1:1 Bitcoin-backed asset, fully collateralized, interoperable, and censorship-resistant.
+**iBTC: Bitcoin on any blockchain**. iBTC gives you a decentralized and trustless way to use BTC on other blockchains. It’s a 1:1 Bitcoin-backed asset secured by a decentralized network of vault operators and collateral insurance.
 
 **Kintsugi** is Interlay’s canary network, an experiment with real economic value deployed on Kusama. Kintsugi and Interlay share the same code base - with the difference that Kintsugi focusses strictly on innovation and will always be ahead in terms of features.
 
-Interlay is community owned. The network is fully oeprated by decentralized goverance and anyone can freely contribute to the network.
+**Community and decentralization.** Interlay is community owned. The network is fully operated by decentralized goverance and anyone can freely contribute to the network by making code contributions, voting in governance, running validators, collators, or vaults.
+
+![image](https://user-images.githubusercontent.com/14966470/210916832-8ba7b239-1e8b-40fb-9b2c-c931cf73ee0e.png)
 
 ### Built with
 
@@ -27,7 +26,6 @@ The Interlay project is built on many technologies including:
 - [Polkadot.js](https://polkadot.js.org/docs/)
 - [Subsquid](https://docs.subsquid.io/)
 - [React](https://reactjs.org/)
-
 
 ## Getting started
 
