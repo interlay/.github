@@ -6,7 +6,7 @@
 
 ## About Interlay
 
-**Web 3 financial system for Bitcoin**. Interlay is a decentralized layer-1 network, powered by and optimized for Bitcoin. As a Polkadot parachain, Interlay achieves best-in-class Proof-of-Stake security and interoperability with Ethereum, Cosmos, and many more.
+Interlay is building a one-stop shop for all things Bitcoin finance. BTC trading, lending, staking, and a way to deploy into other DeFi products. Trustless bridge at the core, AMM and money market on top, wrapped in a simple one-click interface with on/off-ramps and multi-chain support.
 
 **iBTC: Bitcoin on any blockchain**. iBTC gives you a decentralized and trustless way to use BTC on other blockchains. It’s a 1:1 Bitcoin-backed asset secured by a decentralized network of vault operators and collateral insurance.
 
