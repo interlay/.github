@@ -39,7 +39,7 @@ If you would like to contribute, please file an issue or pull request on GitHub 
 
 ### Contact
 
-- [Discord](https://discord.com/invite/KgCYK3MKSf)
+- [Discord](https://discord.gg/interlay)
 
 ### Main repositories
 
